@@ -1,6 +1,7 @@
 ## Demo
 
-[placeless.net](http://placeless.net)
+[hoithauri.github.io/placeless-jekyll-theme](https://hoithauri.github.io/placeless-jekyll-theme/)
+
 
 
 
