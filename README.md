@@ -1,6 +1,6 @@
 ## Demo
 
-[hoithauri.github.io/placeless-jekyll-theme](https://hoithauri.github.io/placeless-jekyll-theme/)
+[View](https://hoithauri.github.io/jekyll-theme-placeless/)
 
 
 
