@@ -2,11 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
-// 导入变量模块（虽然变量不会直接在本文件中使用，但为保持一致性）
 @use 'variables';
-// 导入 mixin 模块（如果 layout 中也需要，可以只在这里导入一次，但推荐各自导入）
 @use 'mixins';
-// 导入各模块（它们内部会自己导入需要的依赖）
 @use "base";
 @use "layout";
